@@ -10,6 +10,7 @@
 
 A PHP-based self-hosted URL shortener that can be used to serve shortened URLs under your own custom domain.
 
+**https://api-spec.shlink.io/ In this link, see swagger documentation related api endpoints.
 ## Table of Contents
 
 - [Full documentation](#full-documentation)
@@ -98,3 +99,5 @@ If you are trying to find out how to run the project in development mode or how 
 ---
 
 > This product includes GeoLite2 data created by MaxMind, available from [https://www.maxmind.com](https://www.maxmind.com)
+
+**https://api-spec.shlink.io/ In this link, see swagger documentation related api endpoints.

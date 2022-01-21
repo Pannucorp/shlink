@@ -15,7 +15,7 @@ jobs:
           name: Deploy master to AWS
           command: |
             ssh $SSH_USER@$SSH_HOST \<< EOF
-            cd /home/ubuntu/rating1
+            cd /home/ubuntu/shlink
             git pull
             docker-compose up -d --build
             EOF

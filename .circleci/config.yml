@@ -19,7 +19,6 @@ jobs:
             git pull
             docker-compose up -d --build
             EOF
-
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 workflows:
